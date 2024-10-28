@@ -1,4 +1,4 @@
-# pokemon_old_rom
+# Pokemon Old ROMs (From GB to NDS)
 
 Pokemon old rom from Red/Green/Blue to B2/W2. 
 
